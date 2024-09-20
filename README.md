@@ -1,8 +1,6 @@
-Collaborative Text Editor
+# Collaborative Text Editor
 A rich-text collaborative editor which allows multiple users to edit the same document at the same time. It uses Django Channels for real-time communication and Yjs for collaborative editing. It also uses Remirror for rich-text editing. It is a work in progress. Feel free to contribute.
 # Getting Started with Create React App
-
-![alt text](image.png)
 
 ## Available Scripts
 
